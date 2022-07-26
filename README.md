@@ -16,7 +16,7 @@
 </p>
 
 
-![snake gif](https://github.com/muhamcoder1011/muhamcoder1011/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/MuhammadUmarqulov/MuhammadUmarqulov/blob/output/github-contribution-grid-snake.svg)
 
 <div align="center">
   <a href="https://github.com/muhamcoder1011">
